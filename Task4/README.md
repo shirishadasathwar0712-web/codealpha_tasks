@@ -1,4 +1,4 @@
-# CodeAlpha Task 4 - Object Detection and Tracking
+# CodeAlpha Task 3 - Object Detection and Tracking
 
 Object Detection and Tracking system using browser-based computer vision.
 
